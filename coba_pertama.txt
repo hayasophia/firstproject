@@ -1,4 +1,5 @@
 1. Coba coba
 2. Lokasi
 3. Terminal
-4. 
+4. login
+5. weekly
